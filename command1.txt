@@ -1,0 +1,27 @@
+git config --global user.name "sukumar">> configure git with our username
+
+git config -- global user.email"sukumar@gmail.com>> configure git with our emilld
+
+configure requires while pushing towards a public respositpry in github from a local respositpry
+
+git status >> used to check the status of .git in the current directory
+
+git init >>to initlalize git in the current directory
+
+.if we add ,delete a file it well track it as a change in thw directory
+
+u>> repersents untracked(file is there not yet commited or not added to staging area)
+
+A>> files that added to staging area
+
+M>> files being modified added to staging area
+
+git add into.txt>>intro.txt file added to staging area
+
+A>>files that added to staging area
+
+git commit -m  "my first commit"
+
+git push -u
+
+git clone <respositpry url >> for cloning a respositpryfrom github
