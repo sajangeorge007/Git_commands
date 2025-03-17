@@ -25,3 +25,6 @@ git commit -m  "my first commit"
 git push -u
 
 git clone <respositpry url >> for cloning a respositpryfrom github
+
+
+git branch newbranch>>newbranch 
