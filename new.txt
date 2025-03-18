@@ -1,0 +1,3 @@
+new file git
+
+eco"new file "> new.txt 
